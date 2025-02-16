@@ -1,8 +1,8 @@
 ## Introduction
 
-I'm a software architect with a broad range of experience spanning over 8 years. I have hands-on expertise across various technologies, and I’ve been involved in everything from requirements analysis and solution design to implementation and delivery.
+Hi there, I'm Daniel Marcos Lorrio.
 
-You can find me on [LinkedIn](http://linkedin.com/in/dmarcosl).
+Check out my [GitHub.io Profile](https://dmarcosl.github.io).
 
 ## Languages
 
@@ -86,6 +86,7 @@ You can find me on [LinkedIn](http://linkedin.com/in/dmarcosl).
 
 ## DevOps
 
+![image](https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 ![image](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![image](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=Proxmox&logoColor=white)
